@@ -2,14 +2,14 @@
 
 /**
  * Plugin Name: Caldera Forms eWAY Rapid API Payment Processor
- * Plugin URI: https://bitbucket.org/agileware/cf-eway-rapid
+ * Plugin URI: https://github.com/agileware-dat/agileware-caldera-forms-eway-rapid-payment
  * Description: eWay Rapid API payment processor for Caldera Forms.
  * Version: 1.0.0
  * Author: Agileware
  * Author URI: https://agileware.com.au
  * License: GPL-2.0+
  * License URI: http://www.gnu.org/licenses/gpl-2.0.txt
- * Bitbucket Plugin URI: https://github.com/CalderaWP/Caldera-Forms/
+ * GitHub Plugin URI: https://github.com/agileware-dat/agileware-caldera-forms-eway-rapid-payment
  */
 
 
